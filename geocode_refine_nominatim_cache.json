@@ -1,0 +1,2050 @@
+{
+  "1 Peel Street, Gisborne, 4010, NEW ZEALAND": {
+    "lat": -38.665358,
+    "lon": 178.0268691,
+    "query": "1 Peel Street, Gisborne, 4010, NEW ZEALAND"
+  },
+  "1 Peel Street, Gisborne, NEW ZEALAND": {
+    "lat": -38.665358,
+    "lon": 178.0268691,
+    "query": "1 Peel Street, Gisborne, NEW ZEALAND"
+  },
+  "1 Queen Street, Auckland Central, Auckland, 1010, NEW ZEALAND": {
+    "lat": -36.8494537,
+    "lon": 174.7654579,
+    "query": "1 Queen Street, Auckland Central, Auckland, 1010, NEW ZEALAND"
+  },
+  "1 Queen Street, Auckland, 1010, NEW ZEALAND": {
+    "lat": -36.8759773,
+    "lon": 174.7420311,
+    "query": "1 Queen Street, Auckland, 1010, NEW ZEALAND"
+  },
+  "1 The Strand, Takapuna, Auckland, 0622, NEW ZEALAND": {
+    "lat": -36.7890239,
+    "lon": 174.7733654,
+    "query": "1 The Strand, Takapuna, Auckland, 0622, NEW ZEALAND"
+  },
+  "1/23 Majoribanks Street, Mt Victoria, Wellington, 6011, NEW ZEALAND": {
+    "lat": -41.2954998,
+    "lon": 174.7886424,
+    "query": "1/23 Majoribanks Street, Mt Victoria, Wellington, 6011, NEW ZEALAND"
+  },
+  "10 Young Street, New Plymouth, 4310, NEW ZEALAND": {
+    "lat": -39.0574866,
+    "lon": 174.0683044,
+    "query": "10 Young Street, New Plymouth, 4310, NEW ZEALAND"
+  },
+  "10 Young Street, New Plymouth, New Plymouth, 4310, NEW ZEALAND": {
+    "lat": -39.0574866,
+    "lon": 174.0683044,
+    "query": "10 Young Street, New Plymouth, New Plymouth, 4310, NEW ZEALAND"
+  },
+  "100 College Hill, Freemans Bay, Auckland, 1011, NEW ZEALAND": {
+    "lat": -36.8475728,
+    "lon": 174.7446333,
+    "query": "100 College Hill, Freemans Bay, Auckland, 1011, NEW ZEALAND"
+  },
+  "100 College Hill, Ponsonby, Auckland, 1011, NEW ZEALAND": {
+    "lat": -36.8475728,
+    "lon": 174.7446333,
+    "query": "100 College Hill, Ponsonby, Auckland, 1011, NEW ZEALAND"
+  },
+  "101 Arawa Street, Arawa Street, Matamata, 3400, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "101 Arawa Street, Matamata, 3400, NEW ZEALAND": {
+    "lat": -37.8078045,
+    "lon": 175.7742001,
+    "query": "101 Arawa Street, Matamata, 3400, NEW ZEALAND"
+  },
+  "101 Arawa Street, Matamata, Matamata, 3400, NEW ZEALAND": {
+    "lat": -37.8078045,
+    "lon": 175.7742001,
+    "query": "101 Arawa Street, Matamata, Matamata, 3400, NEW ZEALAND"
+  },
+  "101 Don Street, Invercargill, 9810, NEW ZEALAND": {
+    "lat": -46.4109144,
+    "lon": 168.3542669,
+    "query": "101 Don Street, Invercargill, 9810, NEW ZEALAND"
+  },
+  "101 Don Street, Invercargill, Invercargill, 9810, NEW ZEALAND": {
+    "lat": -46.4109144,
+    "lon": 168.3542669,
+    "query": "101 Don Street, Invercargill, Invercargill, 9810, NEW ZEALAND"
+  },
+  "101/91 Sir Tim Wallis Drive, Wanaka, 9305, NEW ZEALAND": {
+    "lat": -44.6946078,
+    "lon": 169.156592,
+    "query": "101/91 Sir Tim Wallis Drive, Wanaka, 9305, NEW ZEALAND"
+  },
+  "101/91 Sir Tim Wallis Drive, Wanaka, Wanaka, 9305, NEW ZEALAND": {
+    "lat": -44.6946078,
+    "lon": 169.156592,
+    "query": "101/91 Sir Tim Wallis Drive, Wanaka, Wanaka, 9305, NEW ZEALAND"
+  },
+  "102 Thames Street, Oamaru, 9400, NEW ZEALAND": {
+    "lat": -45.0981305,
+    "lon": 170.97041,
+    "query": "102 Thames Street, Oamaru, 9400, NEW ZEALAND"
+  },
+  "103 Thomas Road, Huntington, Hamilton, 3210, NEW ZEALAND": {
+    "lat": -37.7308934,
+    "lon": 175.2757528,
+    "query": "103 Thomas Road, Huntington, Hamilton, 3210, NEW ZEALAND"
+  },
+  "103 Thomas Road, Rototuna, Rototuna, Hamilton, 3210, NEW ZEALAND": {
+    "lat": -37.7308934,
+    "lon": 175.2757528,
+    "query": "103 Thomas Road, Rototuna, Rototuna, Hamilton, 3210, NEW ZEALAND"
+  },
+  "109 Fanshawe Street, Auckland Central, Auckland, 1010, NEW ZEALAND": {
+    "lat": -36.8442949,
+    "lon": 174.7650511,
+    "query": "109 Fanshawe Street, Auckland Central, Auckland, 1010, NEW ZEALAND"
+  },
+  "109 Mt Aspiring Rd, Lake Wanaka, Nz, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "109 Mt Aspiring Road, Lake Wanaka, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "109 Tuwharetoa Street, Taupo, 3330, NEW ZEALAND": {
+    "lat": -38.6888988,
+    "lon": 176.0706373,
+    "query": "109 Tuwharetoa Street, Taupo, 3330, NEW ZEALAND"
+  },
+  "109 Tuwharetoa Street, Taupo, Taupo, 3330, NEW ZEALAND": {
+    "lat": -38.6888988,
+    "lon": 176.0706373,
+    "query": "109 Tuwharetoa Street, Taupo, Taupo, 3330, NEW ZEALAND"
+  },
+  "11 Cole Street, Masterton, 5810, NEW ZEALAND": {
+    "lat": -40.9497525,
+    "lon": 175.6584519,
+    "query": "11 Cole Street, Masterton, 5810, NEW ZEALAND"
+  },
+  "11 Cole Street, Masterton, Masterton, 5810, NEW ZEALAND": {
+    "lat": -40.9497525,
+    "lon": 175.6584519,
+    "query": "11 Cole Street, Masterton, Masterton, 5810, NEW ZEALAND"
+  },
+  "11-17 Church Street, Queenstown, Queenstown, 9300, NEW ZEALAND": {
+    "lat": -45.0328136,
+    "lon": 168.661305,
+    "query": "11-17 Church Street, Queenstown, Queenstown, 9300, NEW ZEALAND"
+  },
+  "110 Carlton Gore Road, Newmarket, Auckland, 1023, NEW ZEALAND": {
+    "lat": -36.8650368,
+    "lon": 174.777144,
+    "query": "110 Carlton Gore Road, Newmarket, Auckland, 1023, NEW ZEALAND"
+  },
+  "110 Dixon Street, Masterton, 5810, NEW ZEALAND": {
+    "lat": -40.9532205,
+    "lon": 175.658207,
+    "query": "110 Dixon Street, Masterton, 5810, NEW ZEALAND"
+  },
+  "110 Dixon Street, Masterton, Masterton, 5810, NEW ZEALAND": {
+    "lat": -40.9532205,
+    "lon": 175.658207,
+    "query": "110 Dixon Street, Masterton, Masterton, 5810, NEW ZEALAND"
+  },
+  "1101 Omahu Road, Hastings, 4175, NEW ZEALAND": {
+    "lat": -39.6207401,
+    "lon": 176.8168106,
+    "query": "1101 Omahu Road, Hastings, 4175, NEW ZEALAND"
+  },
+  "1101 Omahu Road, Hastings, NEW ZEALAND": {
+    "lat": -39.6234853,
+    "lon": 176.8209252,
+    "query": "1101 Omahu Road, Hastings, NEW ZEALAND"
+  },
+  "111c Riccarton Road, Riccarton, Christchurch 8041, Christchurch, 8041, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "111c Riccarton Road, Riccarton, Christchurch, 8041, NEW ZEALAND": {
+    "lat": -43.5298929,
+    "lon": 172.5999793,
+    "query": "111c Riccarton Road, Riccarton, Christchurch, 8041, NEW ZEALAND"
+  },
+  "114 Pakuranga Plaza, 10 Aylesbury Street, Pakuranga, Auckland, 2010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "1168 Amohia Street, Rotorua, 3010, NEW ZEALAND": {
+    "lat": -38.1352846,
+    "lon": 176.2491341,
+    "query": "1168 Amohia Street, Rotorua, 3010, NEW ZEALAND"
+  },
+  "1168 Amohia Street, Rotorua, Rotorua, 3010, NEW ZEALAND": {
+    "lat": -38.1352846,
+    "lon": 176.2491341,
+    "query": "1168 Amohia Street, Rotorua, Rotorua, 3010, NEW ZEALAND"
+  },
+  "12 Figaro Crescent, Takanini, Auckland, 2112, NEW ZEALAND": {
+    "lat": -37.0450893,
+    "lon": 174.9366532,
+    "query": "12 Figaro Crescent, Takanini, Auckland, 2112, NEW ZEALAND"
+  },
+  "12 Figaro Crescent, Takanini, Takanini, 2112, NEW ZEALAND": {
+    "lat": -37.0450893,
+    "lon": 174.9366532,
+    "query": "12 Figaro Crescent, Takanini, Takanini, 2112, NEW ZEALAND"
+  },
+  "12 Madden Street, Auckland Central, Auckland, 1010, NEW ZEALAND": {
+    "lat": -36.8422787,
+    "lon": 174.7565087,
+    "query": "12 Madden Street, Auckland Central, Auckland, 1010, NEW ZEALAND"
+  },
+  "12 Madden Street, Wynyard Quarter, Auckland, 1010, NEW ZEALAND": {
+    "lat": -36.8422787,
+    "lon": 174.7565087,
+    "query": "12 Madden Street, Wynyard Quarter, Auckland, 1010, NEW ZEALAND"
+  },
+  "12 O'connell Street, Auckland Central, Auckland, 1010, NEW ZEALAND": {
+    "lat": -36.8473549,
+    "lon": 174.767431,
+    "query": "12 O'connell Street, Auckland Central, Auckland, 1010, NEW ZEALAND"
+  },
+  "12 Victoria Avenue, Palmerston North, 4410, NEW ZEALAND": {
+    "lat": -40.3497605,
+    "lon": 175.6176192,
+    "query": "12 Victoria Avenue, Palmerston North, 4410, NEW ZEALAND"
+  },
+  "12 Victoria Avenue, Palmerston North, Palmerston North, 4410, NEW ZEALAND": {
+    "lat": -40.3497605,
+    "lon": 175.6176192,
+    "query": "12 Victoria Avenue, Palmerston North, Palmerston North, 4410, NEW ZEALAND"
+  },
+  "120 Albert Street, Auckland Central, Auckland, 1010, NEW ZEALAND": {
+    "lat": -36.8494785,
+    "lon": 174.7636294,
+    "query": "120 Albert Street, Auckland Central, Auckland, 1010, NEW ZEALAND"
+  },
+  "129 Second Avenue, Tauranga, 3110, NEW ZEALAND": {
+    "lat": -37.6883697,
+    "lon": 176.1640848,
+    "query": "129 Second Avenue, Tauranga, 3110, NEW ZEALAND"
+  },
+  "129 Second Avenue, Tauranga, Tauranga, 3110, NEW ZEALAND": {
+    "lat": -37.6883697,
+    "lon": 176.1640848,
+    "query": "129 Second Avenue, Tauranga, Tauranga, 3110, NEW ZEALAND"
+  },
+  "13 Alexandra Street, Te Awamutu, NEW ZEALAND": {
+    "lat": -38.0102047,
+    "lon": 175.3254355,
+    "query": "13 Alexandra Street, Te Awamutu, NEW ZEALAND"
+  },
+  "13 Alexandra Street, Te Awamutu, Te Awamutu, 3800, NEW ZEALAND": {
+    "lat": -38.0102047,
+    "lon": 175.3254355,
+    "query": "13 Alexandra Street, Te Awamutu, Te Awamutu, 3800, NEW ZEALAND"
+  },
+  "13/143 Quay Street, Auckland, 1010, NEW ZEALAND": {
+    "lat": -36.8432332,
+    "lon": 174.7669014,
+    "query": "13/143 Quay Street, Auckland, 1010, NEW ZEALAND"
+  },
+  "130 Saint Georges Bay Road, Parnell, Auckland, 1052, NEW ZEALAND": {
+    "lat": -36.8506784,
+    "lon": 174.7820363,
+    "query": "130 Saint Georges Bay Road, Parnell, Auckland, 1052, NEW ZEALAND"
+  },
+  "130 St Georges Bay Road, Parnell, Auckland, 1052, NEW ZEALAND": {
+    "lat": -36.8506784,
+    "lon": 174.7820363,
+    "query": "130 St Georges Bay Road, Parnell, Auckland, 1052, NEW ZEALAND"
+  },
+  "133 Wairau Road, Glenfield, Auckland, 0629, NEW ZEALAND": {
+    "lat": -36.7724669,
+    "lon": 174.7421143,
+    "query": "133 Wairau Road, Glenfield, Auckland, 0629, NEW ZEALAND"
+  },
+  "133 Wairau Road,glenfield, Auckland, 0629, NEW ZEALAND": {
+    "lat": -36.7724669,
+    "lon": 174.7421143,
+    "query": "133 Wairau Road,glenfield, Auckland, 0629, NEW ZEALAND"
+  },
+  "136 Spey Street, Invercargill, 9810, NEW ZEALAND": {
+    "lat": -46.4096738,
+    "lon": 168.3568873,
+    "query": "136 Spey Street, Invercargill, 9810, NEW ZEALAND"
+  },
+  "136 Spey Street, Invercargill, Invercargill, 9810, NEW ZEALAND": {
+    "lat": -46.4096738,
+    "lon": 168.3568873,
+    "query": "136 Spey Street, Invercargill, Invercargill, 9810, NEW ZEALAND"
+  },
+  "137 A Kolmar Road, Papatoetoe, Auckland, 2025, NEW ZEALAND": {
+    "lat": -36.971869,
+    "lon": 174.8571509,
+    "query": "137 A Kolmar Road, Papatoetoe, Auckland, 2025, NEW ZEALAND"
+  },
+  "137 Kolmar Road, Papatoetoe, Auckland, 2025, NEW ZEALAND": {
+    "lat": -36.9701578,
+    "lon": 174.8596094,
+    "query": "137 Kolmar Road, Papatoetoe, Auckland, 2025, NEW ZEALAND"
+  },
+  "138g Harris Road, East Tamaki, Auckland, 2013, NEW ZEALAND": {
+    "lat": -36.9378603,
+    "lon": 174.895043,
+    "query": "138g Harris Road, East Tamaki, Auckland, 2013, NEW ZEALAND"
+  },
+  "138j Harris Road, East Tamaki, Auckland, 2013, NEW ZEALAND": {
+    "lat": -36.9378603,
+    "lon": 174.895043,
+    "query": "138j Harris Road, East Tamaki, Auckland, 2013, NEW ZEALAND"
+  },
+  "139 Princes Street, Hawera, 4610, NEW ZEALAND": {
+    "lat": -39.5878049,
+    "lon": 174.2841189,
+    "query": "139 Princes Street, Hawera, 4610, NEW ZEALAND"
+  },
+  "139 Princes Street, Hawera, Hawera, 4610, NEW ZEALAND": {
+    "lat": -39.5878049,
+    "lon": 174.2841189,
+    "query": "139 Princes Street, Hawera, Hawera, 4610, NEW ZEALAND"
+  },
+  "14 Hawkley Close, Flat Bush, Auckland, 2019, NEW ZEALAND": {
+    "lat": -36.9751533,
+    "lon": 174.9030787,
+    "query": "14 Hawkley Close, Flat Bush, Auckland, 2019, NEW ZEALAND"
+  },
+  "14 Tui Street, Matamata, 3400, NEW ZEALAND": {
+    "lat": -37.8121041,
+    "lon": 175.7742886,
+    "query": "14 Tui Street, Matamata, 3400, NEW ZEALAND"
+  },
+  "14 Tui Street, Matamata, 3440, NEW ZEALAND": {
+    "lat": -37.8121041,
+    "lon": 175.7742886,
+    "query": "14 Tui Street, Matamata, 3440, NEW ZEALAND"
+  },
+  "14 Tui Street, Matamata, Matamata, 3400, NEW ZEALAND": {
+    "lat": -37.8121041,
+    "lon": 175.7742886,
+    "query": "14 Tui Street, Matamata, Matamata, 3400, NEW ZEALAND"
+  },
+  "14 Tui Street, Matamata, NEW ZEALAND": {
+    "lat": -37.8121041,
+    "lon": 175.7742886,
+    "query": "14 Tui Street, Matamata, NEW ZEALAND"
+  },
+  "144 Tancred Street, Ashburton, 7700, NEW ZEALAND": {
+    "lat": -43.9065872,
+    "lon": 171.7479915,
+    "query": "144 Tancred Street, Ashburton, 7700, NEW ZEALAND"
+  },
+  "144 Tancred Street, Ashburton, Ashburton, 7700, NEW ZEALAND": {
+    "lat": -43.9065872,
+    "lon": 171.7479915,
+    "query": "144 Tancred Street, Ashburton, Ashburton, 7700, NEW ZEALAND"
+  },
+  "146 Harris Road, East Tamaki, Auckland, 2013, NEW ZEALAND": {
+    "lat": -36.9293536,
+    "lon": 174.8970563,
+    "query": "146 Harris Road, East Tamaki, Auckland, 2013, NEW ZEALAND"
+  },
+  "146c Harris Road, East Tamaki, Auckland, 2013, NEW ZEALAND": {
+    "lat": -36.9378603,
+    "lon": 174.895043,
+    "query": "146c Harris Road, East Tamaki, Auckland, 2013, NEW ZEALAND"
+  },
+  "15 Accent Drive, Building 4, East Tamaki, Auckland, 2013, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "15 Customs Street West, Auckland Central, Auckland, 1010, NEW ZEALAND": {
+    "lat": -36.8442296,
+    "lon": 174.7658072,
+    "query": "15 Customs Street West, Auckland Central, Auckland, 1010, NEW ZEALAND"
+  },
+  "15 George Street, Whakatane, 3120, NEW ZEALAND": {
+    "lat": -37.9508718,
+    "lon": 176.998867,
+    "query": "15 George Street, Whakatane, 3120, NEW ZEALAND"
+  },
+  "15 George Street, Whakatane, Whakatane, 3120, NEW ZEALAND": {
+    "lat": -37.9508718,
+    "lon": 176.998867,
+    "query": "15 George Street, Whakatane, Whakatane, 3120, NEW ZEALAND"
+  },
+  "151 Burnett Street, Ashburton, 7700, NEW ZEALAND": {
+    "lat": -43.9035879,
+    "lon": 171.7469324,
+    "query": "151 Burnett Street, Ashburton, 7700, NEW ZEALAND"
+  },
+  "151 Burnett Street, Ashburton, Ashburton, 7700, NEW ZEALAND": {
+    "lat": -43.9035879,
+    "lon": 171.7469324,
+    "query": "151 Burnett Street, Ashburton, Ashburton, 7700, NEW ZEALAND"
+  },
+  "15b Vestey Drive, Mount Wellington, Auckland, 1060, NEW ZEALAND": {
+    "lat": -36.9277764,
+    "lon": 174.8370601,
+    "query": "15b Vestey Drive, Mount Wellington, Auckland, 1060, NEW ZEALAND"
+  },
+  "16 Piermark Drive, Albany, Auckland, 0632, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "16 Uretara Dr, Katikati, Katikati, 3129, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "16 Uretara Drive, Katikati, Katikati, 3129, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "160 Havelock Street, Ashburton, 7700, NEW ZEALAND": {
+    "lat": -43.9027931,
+    "lon": 171.7473561,
+    "query": "160 Havelock Street, Ashburton, 7700, NEW ZEALAND"
+  },
+  "160 Spey Street, Invercargil, 9810, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "160 Spey Street, Invercargill, 9810, NEW ZEALAND": {
+    "lat": -46.4096738,
+    "lon": 168.3568873,
+    "query": "160 Spey Street, Invercargill, 9810, NEW ZEALAND"
+  },
+  "160 Spey Street, Invercargill, 9840, NEW ZEALAND": {
+    "lat": -46.4096738,
+    "lon": 168.3568873,
+    "query": "160 Spey Street, Invercargill, 9840, NEW ZEALAND"
+  },
+  "160 Spey Street, Invercargill, Invercargill, 9810, NEW ZEALAND": {
+    "lat": -46.4096738,
+    "lon": 168.3568873,
+    "query": "160 Spey Street, Invercargill, Invercargill, 9810, NEW ZEALAND"
+  },
+  "161 Central Park Drive, Henderson, Auckland, 0610, NEW ZEALAND": {
+    "lat": -36.8521542,
+    "lon": 174.6343878,
+    "query": "161 Central Park Drive, Henderson, Auckland, 0610, NEW ZEALAND"
+  },
+  "161 Central Park Drive. Henderson, Henderson, Auckland, 0610, NEW ZEALAND": {
+    "lat": -36.8521542,
+    "lon": 174.6343878,
+    "query": "161 Central Park Drive. Henderson, Henderson, Auckland, 0610, NEW ZEALAND"
+  },
+  "162 Dee Street, Invercargill, 9810, NEW ZEALAND": {
+    "lat": -46.4082456,
+    "lon": 168.3469198,
+    "query": "162 Dee Street, Invercargill, 9810, NEW ZEALAND"
+  },
+  "162 Dee Street, Invercargill, Invercargill, 9810, NEW ZEALAND": {
+    "lat": -46.4082456,
+    "lon": 168.3469198,
+    "query": "162 Dee Street, Invercargill, Invercargill, 9810, NEW ZEALAND"
+  },
+  "166 Upper Sefton Road, Ashley Rd7, Rangiora, 7477, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "166 Upper Sefton Road, Rangiora, 7477, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "16b Lorien Place, East Tamaki, Auckland, 2013, NEW ZEALAND": {
+    "lat": -36.9450551,
+    "lon": 174.8798436,
+    "query": "16b Lorien Place, East Tamaki, Auckland, 2013, NEW ZEALAND"
+  },
+  "16c Lorien Place, East Tamaki, Auckland, 2013, NEW ZEALAND": {
+    "lat": -36.9450551,
+    "lon": 174.8798436,
+    "query": "16c Lorien Place, East Tamaki, Auckland, 2013, NEW ZEALAND"
+  },
+  "17-19 John Street, Balclutha, 9240, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "17-19 John Street, Balclutha, Balclutha, 9230, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "170 Broadway Avenue, Palmerston North, 4410, NEW ZEALAND": {
+    "lat": -40.3528251,
+    "lon": 175.6160291,
+    "query": "170 Broadway Avenue, Palmerston North, 4410, NEW ZEALAND"
+  },
+  "170 Broadway Avenue, Palmerston North, NEW ZEALAND": {
+    "lat": -40.3528251,
+    "lon": 175.6160291,
+    "query": "170 Broadway Avenue, Palmerston North, NEW ZEALAND"
+  },
+  "173 Spey Street, Invercargill, 9810, NEW ZEALAND": {
+    "lat": -46.4098241,
+    "lon": 168.3541938,
+    "query": "173 Spey Street, Invercargill, 9810, NEW ZEALAND"
+  },
+  "173 Spey Street, Invercargill, Invercargill, 9810, NEW ZEALAND": {
+    "lat": -46.4098241,
+    "lon": 168.3541938,
+    "query": "173 Spey Street, Invercargill, Invercargill, 9810, NEW ZEALAND"
+  },
+  "173 Spey Street, Invercargill, Invercargill, 9840, NEW ZEALAND": {
+    "lat": -46.4098241,
+    "lon": 168.3541938,
+    "query": "173 Spey Street, Invercargill, Invercargill, 9840, NEW ZEALAND"
+  },
+  "175 Queen Street, Auckland Centre, Auckland, 1010, NEW ZEALAND": {
+    "lat": -36.8480305,
+    "lon": 174.7652977,
+    "query": "175 Queen Street, Auckland Centre, Auckland, 1010, NEW ZEALAND"
+  },
+  "17c Albert Street, Auckland Central, Auckland, 1010, NEW ZEALAND": {
+    "lat": -36.8453127,
+    "lon": 174.7649297,
+    "query": "17c Albert Street, Auckland Central, Auckland, 1010, NEW ZEALAND"
+  },
+  "17c Corinthian Drive, Albany, 0632, NEW ZEALAND": {
+    "lat": -36.7325323,
+    "lon": 174.7100749,
+    "query": "17c Corinthian Drive, Albany, 0632, NEW ZEALAND"
+  },
+  "17c Corinthian Drive, Albany, Auckland, 0632, NEW ZEALAND": {
+    "lat": -36.7325323,
+    "lon": 174.7100749,
+    "query": "17c Corinthian Drive, Albany, Auckland, 0632, NEW ZEALAND"
+  },
+  "17d Albert Street Auckland Cbd, Auckland Cbd, Auckland, 1010, NEW ZEALAND": {
+    "lat": -36.8477153,
+    "lon": 174.7639835,
+    "query": "17d Albert Street Auckland Cbd, Auckland Cbd, Auckland, 1010, NEW ZEALAND"
+  },
+  "18 Link Drive, Wairau Valley, Auckland, 0627, NEW ZEALAND": {
+    "lat": -36.7645957,
+    "lon": 174.7372246,
+    "query": "18 Link Drive, Wairau Valley, Auckland, 0627, NEW ZEALAND"
+  },
+  "18 Maniapoto Street, Otorohanga, 3900, NEW ZEALAND": {
+    "lat": -38.1842977,
+    "lon": 175.2125236,
+    "query": "18 Maniapoto Street, Otorohanga, 3900, NEW ZEALAND"
+  },
+  "18 Maniapoto Street, Otorohanga, NEW ZEALAND": {
+    "lat": -38.1842977,
+    "lon": 175.2125236,
+    "query": "18 Maniapoto Street, Otorohanga, NEW ZEALAND"
+  },
+  "18 Maniapoto Street, Otorohanga, Otorohanga, 3900, NEW ZEALAND": {
+    "lat": -38.1862736,
+    "lon": 175.211398,
+    "query": "18 Maniapoto Street, Otorohanga, Otorohanga, 3900, NEW ZEALAND"
+  },
+  "18 Viaduct Harbour Avenue, Auckland Central, Auckland, 1010, NEW ZEALAND": {
+    "lat": -36.8456513,
+    "lon": 174.7576501,
+    "query": "18 Viaduct Harbour Avenue, Auckland Central, Auckland, 1010, NEW ZEALAND"
+  },
+  "18 Viaduct Harbour Avenue, Auckland, 1010, NEW ZEALAND": {
+    "lat": -36.8456513,
+    "lon": 174.7576501,
+    "query": "18 Viaduct Harbour Avenue, Auckland, 1010, NEW ZEALAND"
+  },
+  "188 Quay Street, Auckland Central, Auckland, 1010, NEW ZEALAND": {
+    "lat": -36.8433197,
+    "lon": 174.7654087,
+    "query": "188 Quay Street, Auckland Central, Auckland, 1010, NEW ZEALAND"
+  },
+  "18d Link Drive, Wairau Valley, Auckland, 0627, NEW ZEALAND": {
+    "lat": -36.7685807,
+    "lon": 174.7368732,
+    "query": "18d Link Drive, Wairau Valley, Auckland, 0627, NEW ZEALAND"
+  },
+  "19 Ormiston Road, East Tamaki, Auckland, 2019, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "19 Victoria Street West, Auckland Central, Auckland, 1010, NEW ZEALAND": {
+    "lat": -36.8486154,
+    "lon": 174.7647368,
+    "query": "19 Victoria Street West, Auckland Central, Auckland, 1010, NEW ZEALAND"
+  },
+  "196 Broadway Avenue, Palmerston North, 4410, NEW ZEALAND": {
+    "lat": -40.3522645,
+    "lon": 175.6173082,
+    "query": "196 Broadway Avenue, Palmerston North, 4410, NEW ZEALAND"
+  },
+  "196 Broadway Avenue, Palmerston North, Palmerston North, 4410, NEW ZEALAND": {
+    "lat": -40.3522645,
+    "lon": 175.6173082,
+    "query": "196 Broadway Avenue, Palmerston North, Palmerston North, 4410, NEW ZEALAND"
+  },
+  "1st Floor, 236 Broadway Avenue, Palmerston North, 4414, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "1st Floor, 4 Vinery Lane, Whangarei, 0110, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "2 Crummer Road, Grey Lynn, Auckland, 1021, NEW ZEALAND": {
+    "lat": -36.8607167,
+    "lon": 174.747196,
+    "query": "2 Crummer Road, Grey Lynn, Auckland, 1021, NEW ZEALAND"
+  },
+  "2 Crummer Road, Ponsonby, Auckland, 1021, NEW ZEALAND": {
+    "lat": -36.8618301,
+    "lon": 174.7454155,
+    "query": "2 Crummer Road, Ponsonby, Auckland, 1021, NEW ZEALAND"
+  },
+  "2 Graham Street, Auckland Central, Auckland, 1010, NEW ZEALAND": {
+    "lat": -36.8475064,
+    "lon": 174.7590415,
+    "query": "2 Graham Street, Auckland Central, Auckland, 1010, NEW ZEALAND"
+  },
+  "2/14 Northside Drive, Westgate, Auckland, 0814, NEW ZEALAND": {
+    "lat": -36.8088756,
+    "lon": 174.597409,
+    "query": "2/14 Northside Drive, Westgate, Auckland, 0814, NEW ZEALAND"
+  },
+  "20 Arawa Street, Matamata, 3400, NEW ZEALAND": {
+    "lat": -37.8085833,
+    "lon": 175.7738828,
+    "query": "20 Arawa Street, Matamata, 3400, NEW ZEALAND"
+  },
+  "20 Arawa Street, Matamata, Matamata, 3400, NEW ZEALAND": {
+    "lat": -37.8085833,
+    "lon": 175.7738828,
+    "query": "20 Arawa Street, Matamata, Matamata, 3400, NEW ZEALAND"
+  },
+  "20 Arawa Street, Matamata, NEW ZEALAND": {
+    "lat": -37.8085833,
+    "lon": 175.7738828,
+    "query": "20 Arawa Street, Matamata, NEW ZEALAND"
+  },
+  "20 Don Street, Level 1, Invercargill, 9810, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "205 Hastings Street South, Hastings, 4122, NEW ZEALAND": {
+    "lat": -39.6457524,
+    "lon": 176.8441883,
+    "query": "205 Hastings Street South, Hastings, 4122, NEW ZEALAND"
+  },
+  "205 Hastings Street South, Hastings, Hastings, 4122, NEW ZEALAND": {
+    "lat": -39.6457524,
+    "lon": 176.8441883,
+    "query": "205 Hastings Street South, Hastings, Hastings, 4122, NEW ZEALAND"
+  },
+  "22 Jellicoe Street, Freemans Bay, Auckland 1010, NEW ZEALAND": {
+    "lat": -36.8411016,
+    "lon": 174.7565837,
+    "query": "22 Jellicoe Street, Freemans Bay, Auckland 1010, NEW ZEALAND"
+  },
+  "22 Pollen Street, Grey Lynn, Auckland, 1021, NEW ZEALAND": {
+    "lat": -36.8604388,
+    "lon": 174.7497235,
+    "query": "22 Pollen Street, Grey Lynn, Auckland, 1021, NEW ZEALAND"
+  },
+  "23 A May Street, Hamilton East, Hamilton, 3216, NEW ZEALAND": {
+    "lat": -37.7841354,
+    "lon": 175.3124637,
+    "query": "23 A May Street, Hamilton East, Hamilton, 3216, NEW ZEALAND"
+  },
+  "236 Broadway Avenue, Palmerston North, 4414, NEW ZEALAND": {
+    "lat": -40.3510236,
+    "lon": 175.6200744,
+    "query": "236 Broadway Avenue, Palmerston North, 4414, NEW ZEALAND"
+  },
+  "236 Dominion Road, Mount Eden, Auckland, 1024, NEW ZEALAND": {
+    "lat": -36.876194,
+    "lon": 174.7511346,
+    "query": "236 Dominion Road, Mount Eden, Auckland, 1024, NEW ZEALAND"
+  },
+  "23a May Street, Hamilton East, Hamilton, 3216, NEW ZEALAND": {
+    "lat": -37.7841354,
+    "lon": 175.3124637,
+    "query": "23a May Street, Hamilton East, Hamilton, 3216, NEW ZEALAND"
+  },
+  "24 Anzac Parade, Hamilton East, Hamilton, 3216, NEW ZEALAND": {
+    "lat": -37.7911371,
+    "lon": 175.2913219,
+    "query": "24 Anzac Parade, Hamilton East, Hamilton, 3216, NEW ZEALAND"
+  },
+  "24 Porana Road, Wairau Valley, Auckland, 0627, NEW ZEALAND": {
+    "lat": -36.7817279,
+    "lon": 174.742779,
+    "query": "24 Porana Road, Wairau Valley, Auckland, 0627, NEW ZEALAND"
+  },
+  "24 The Terrace, Timaru, 7910, NEW ZEALAND": {
+    "lat": -44.3934414,
+    "lon": 171.2510894,
+    "query": "24 The Terrace, Timaru, 7910, NEW ZEALAND"
+  },
+  "24 The Terrace, Timaru, Timaru, 7910, NEW ZEALAND": {
+    "lat": -44.3934414,
+    "lon": 171.2510894,
+    "query": "24 The Terrace, Timaru, Timaru, 7910, NEW ZEALAND"
+  },
+  "242 Bank Street, Te Awamutu, 3800, NEW ZEALAND": {
+    "lat": -38.0114297,
+    "lon": 175.3222239,
+    "query": "242 Bank Street, Te Awamutu, 3800, NEW ZEALAND"
+  },
+  "242 Bank Street, Te Awamutu, Te Awamutu, 3800, NEW ZEALAND": {
+    "lat": -38.0114297,
+    "lon": 175.3222239,
+    "query": "242 Bank Street, Te Awamutu, Te Awamutu, 3800, NEW ZEALAND"
+  },
+  "247 Cameron Road, Level 1, Tauranga, 3110, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "247 Cameron Road, Level 2, Tauranga, 3110, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "247 Cameron Road, Tauranga, 3110, NEW ZEALAND": {
+    "lat": -37.6873734,
+    "lon": 176.1649752,
+    "query": "247 Cameron Road, Tauranga, 3110, NEW ZEALAND"
+  },
+  "247 Cameron Road, Tauranga, Tauranga, 3110, NEW ZEALAND": {
+    "lat": -37.6873734,
+    "lon": 176.1649752,
+    "query": "247 Cameron Road, Tauranga, Tauranga, 3110, NEW ZEALAND"
+  },
+  "24c Allright Place, Mount Wellington, Auckland, 1060, NEW ZEALAND": {
+    "lat": -36.9112293,
+    "lon": 174.8500048,
+    "query": "24c Allright Place, Mount Wellington, Auckland, 1060, NEW ZEALAND"
+  },
+  "24r Allright Place, Mount Wellington, Auckland, 1060, NEW ZEALAND": {
+    "lat": -36.9104273,
+    "lon": 174.8504207,
+    "query": "24r Allright Place, Mount Wellington, Auckland, 1060, NEW ZEALAND"
+  },
+  "25 Esk Street, Level 6, Invercargill, 9810, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "25 Station Road, Auckland, 2102, NEW ZEALAND": {
+    "lat": -37.0215764,
+    "lon": 174.8951979,
+    "query": "25 Station Road, Auckland, 2102, NEW ZEALAND"
+  },
+  "25 Station Road, Manurewa, Auckland, 2102, NEW ZEALAND": {
+    "lat": -37.0215764,
+    "lon": 174.8951979,
+    "query": "25 Station Road, Manurewa, Auckland, 2102, NEW ZEALAND"
+  },
+  "25 Victoria Avenue, Avenal, Invercargill, 9810, NEW ZEALAND": {
+    "lat": -46.4058016,
+    "lon": 168.3440767,
+    "query": "25 Victoria Avenue, Avenal, Invercargill, 9810, NEW ZEALAND"
+  },
+  "25 Victoria Avenue, Invercargill, Invercargill, 9810, NEW ZEALAND": {
+    "lat": -46.4058016,
+    "lon": 168.3440767,
+    "query": "25 Victoria Avenue, Invercargill, Invercargill, 9810, NEW ZEALAND"
+  },
+  "25 Willoughby Street, Paeroa, 3640, NEW ZEALAND": {
+    "lat": -37.3798482,
+    "lon": 175.6711846,
+    "query": "25 Willoughby Street, Paeroa, 3640, NEW ZEALAND"
+  },
+  "25 Willoughby Street, Paeroa, NEW ZEALAND": {
+    "lat": -37.3798482,
+    "lon": 175.6711846,
+    "query": "25 Willoughby Street, Paeroa, NEW ZEALAND"
+  },
+  "25 Willoughby Street, Paeroa, Paeroa, 3600, NEW ZEALAND": {
+    "lat": -37.3798482,
+    "lon": 175.6711846,
+    "query": "25 Willoughby Street, Paeroa, Paeroa, 3600, NEW ZEALAND"
+  },
+  "253 Queen Street, Auckland Central, Level 4 Smith & Caughey Building, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "25d Victoria Ave, Invercargill, Invercargill, 9810, NEW ZEALAND": {
+    "lat": -46.4056705,
+    "lon": 168.3436263,
+    "query": "25d Victoria Ave, Invercargill, Invercargill, 9810, NEW ZEALAND"
+  },
+  "25d Victoria Avenue, Avenal, Invercargill, 9810, NEW ZEALAND": {
+    "lat": -46.4058943,
+    "lon": 168.3506681,
+    "query": "25d Victoria Avenue, Avenal, Invercargill, 9810, NEW ZEALAND"
+  },
+  "25d Victoria Avenue, Invercargill, 9810, NEW ZEALAND": {
+    "lat": -46.4056705,
+    "lon": 168.3436263,
+    "query": "25d Victoria Avenue, Invercargill, 9810, NEW ZEALAND"
+  },
+  "25d Victoria Avenue, Invercargill, Invercargill, 9810, NEW ZEALAND": {
+    "lat": -46.4058943,
+    "lon": 168.3506681,
+    "query": "25d Victoria Avenue, Invercargill, Invercargill, 9810, NEW ZEALAND"
+  },
+  "26 Canon Street, Timaru, Timaru, 7910, NEW ZEALAND": {
+    "lat": -44.3943398,
+    "lon": 171.2502784,
+    "query": "26 Canon Street, Timaru, Timaru, 7910, NEW ZEALAND"
+  },
+  "261 Morrin Road, Saint Johns, Auckland, 1072, NEW ZEALAND": {
+    "lat": -36.8841873,
+    "lon": 174.847037,
+    "query": "261 Morrin Road, Saint Johns, Auckland, 1072, NEW ZEALAND"
+  },
+  "264 Oxford Street, Levin, 5510, NEW ZEALAND": {
+    "lat": -40.6209855,
+    "lon": 175.2878199,
+    "query": "264 Oxford Street, Levin, 5510, NEW ZEALAND"
+  },
+  "264 Oxford Street, Levin, Levin, 5510, NEW ZEALAND": {
+    "lat": -40.6209855,
+    "lon": 175.2878199,
+    "query": "264 Oxford Street, Levin, Levin, 5510, NEW ZEALAND"
+  },
+  "27 Smales Road, East Tamaki, Auckland, 2013, NEW ZEALAND": {
+    "lat": -36.9432659,
+    "lon": 174.9006057,
+    "query": "27 Smales Road, East Tamaki, Auckland, 2013, NEW ZEALAND"
+  },
+  "271 Ohangai Road, Hawera, 4673, NEW ZEALAND": {
+    "lat": -39.577537,
+    "lon": 174.3246967,
+    "query": "271 Ohangai Road, Hawera, 4673, NEW ZEALAND"
+  },
+  "271 Ohangai Road, Rd 13, Hawera, 4673, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "27e Smales Road, East Tamaki, Auckland, 2013, NEW ZEALAND": {
+    "lat": -36.943334,
+    "lon": 174.897513,
+    "query": "27e Smales Road, East Tamaki, Auckland, 2013, NEW ZEALAND"
+  },
+  "286 Mt Wellington Highway, Mt Wellington, Auckland, 1060, NEW ZEALAND": {
+    "lat": -36.9145359,
+    "lon": 174.839182,
+    "query": "286 Mt Wellington Highway, Mt Wellington, Auckland, 1060, NEW ZEALAND"
+  },
+  "287 Durham Street North, Christchurch Central, Christchurch, 8013, NEW ZEALAND": {
+    "lat": -43.529295,
+    "lon": 172.6334208,
+    "query": "287 Durham Street North, Christchurch Central, Christchurch, 8013, NEW ZEALAND"
+  },
+  "287-293 Durham Street North, Christchurch Central, Christchurch, 8013, NEW ZEALAND": {
+    "lat": -43.5206289,
+    "lon": 172.6335867,
+    "query": "287-293 Durham Street North, Christchurch Central, Christchurch, 8013, NEW ZEALAND"
+  },
+  "287-293 Durham Street North, Christchurch, 8013, NEW ZEALAND": {
+    "lat": -43.5182255,
+    "lon": 172.634574,
+    "query": "287-293 Durham Street North, Christchurch, 8013, NEW ZEALAND"
+  },
+  "287-293 Durham Street, Christchurch, 8013, NEW ZEALAND": {
+    "lat": -43.5182255,
+    "lon": 172.634574,
+    "query": "287-293 Durham Street, Christchurch, 8013, NEW ZEALAND"
+  },
+  "293 Durham Street North, Christchurch Central City, Christchurch, 8013, NEW ZEALAND": {
+    "lat": -43.5291248,
+    "lon": 172.6333351,
+    "query": "293 Durham Street North, Christchurch Central City, Christchurch, 8013, NEW ZEALAND"
+  },
+  "2nd Floor, 18 Woollcombe Street, Timaru 7910, 0000, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "2nd Floor, 18 Woollcombe Street, Timaru, 7910, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "2nd Floor, 60 Durham Street, Tauranga, 3110, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "3 Byron Street, Napier South, Napier, 4110, NEW ZEALAND": {
+    "lat": -39.488024,
+    "lon": 176.918618,
+    "query": "3 Byron Street, Napier South, Napier, 4110, NEW ZEALAND"
+  },
+  "3 Taita Drive, Rolleston, Rolleston, 7615, NEW ZEALAND": {
+    "lat": -43.6060571,
+    "lon": 172.3985587,
+    "query": "3 Taita Drive, Rolleston, Rolleston, 7615, NEW ZEALAND"
+  },
+  "3 Taita Drive, Rolleston, Rolleston, 7678, NEW ZEALAND": {
+    "lat": -43.6060571,
+    "lon": 172.3985587,
+    "query": "3 Taita Drive, Rolleston, Rolleston, 7678, NEW ZEALAND"
+  },
+  "30 Duke Street, Cambridge, 3434, NEW ZEALAND": {
+    "lat": -37.8948072,
+    "lon": 175.4683576,
+    "query": "30 Duke Street, Cambridge, 3434, NEW ZEALAND"
+  },
+  "30 Duke Street, Cambridge, Cambridge, 3434, NEW ZEALAND": {
+    "lat": -37.8948072,
+    "lon": 175.4683576,
+    "query": "30 Duke Street, Cambridge, Cambridge, 3434, NEW ZEALAND"
+  },
+  "30 Durey Road, Christchurch Airport, Christchurch, 8053, NEW ZEALAND": {
+    "lat": -43.4881128,
+    "lon": 172.5420843,
+    "query": "30 Durey Road, Christchurch Airport, Christchurch, 8053, NEW ZEALAND"
+  },
+  "30 Grayson Ave Papatotoe, Papatoetoe, Auckland, 2104, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "30 Grayson Avenue, Papatoetoe, Auckland, 2104, NEW ZEALAND": {
+    "lat": -36.9881959,
+    "lon": 174.8648717,
+    "query": "30 Grayson Avenue, Papatoetoe, Auckland, 2104, NEW ZEALAND"
+  },
+  "30 Rathbone Street, Whangarei, 0110, NEW ZEALAND": {
+    "lat": -35.7237494,
+    "lon": 174.3220295,
+    "query": "30 Rathbone Street, Whangarei, 0110, NEW ZEALAND"
+  },
+  "30 Rathbone Street, Whangarei, Whangarei, 0110, NEW ZEALAND": {
+    "lat": -35.7237494,
+    "lon": 174.3220295,
+    "query": "30 Rathbone Street, Whangarei, Whangarei, 0110, NEW ZEALAND"
+  },
+  "308 Queen Street East, Hastings, 4122, NEW ZEALAND": {
+    "lat": -39.6435388,
+    "lon": 176.8471231,
+    "query": "308 Queen Street East, Hastings, 4122, NEW ZEALAND"
+  },
+  "308 Ti Rakau Drive, Burswood, 2013, NEW ZEALAND": {
+    "lat": -36.9264314,
+    "lon": 174.8967291,
+    "query": "308 Ti Rakau Drive, Burswood, 2013, NEW ZEALAND"
+  },
+  "308 Ti Rakau Drive, Burswood, Auckland, 2013, NEW ZEALAND": {
+    "lat": -36.9264314,
+    "lon": 174.8967291,
+    "query": "308 Ti Rakau Drive, Burswood, Auckland, 2013, NEW ZEALAND"
+  },
+  "32 Rathbone Street, Whangarei, 0110, NEW ZEALAND": {
+    "lat": -35.7235149,
+    "lon": 174.3220507,
+    "query": "32 Rathbone Street, Whangarei, 0110, NEW ZEALAND"
+  },
+  "32b Sheffield Cres, Christchurch, 8545, NEW ZEALAND": {
+    "lat": -43.4899503,
+    "lon": 172.5619865,
+    "query": "32b Sheffield Cres, Christchurch, 8545, NEW ZEALAND"
+  },
+  "32b Sheffield Crescent, Burnside, Christchurch, 8053, NEW ZEALAND": {
+    "lat": -43.4899503,
+    "lon": 172.5619865,
+    "query": "32b Sheffield Crescent, Burnside, Christchurch, 8053, NEW ZEALAND"
+  },
+  "33 Broadway, Newmarket, Auckland, 1023, NEW ZEALAND": {
+    "lat": -36.8646771,
+    "lon": 174.7780845,
+    "query": "33 Broadway, Newmarket, Auckland, 1023, NEW ZEALAND"
+  },
+  "33 Coles Crescent, Papakura, 2110, NEW ZEALAND": {
+    "lat": -37.0605999,
+    "lon": 174.9390857,
+    "query": "33 Coles Crescent, Papakura, 2110, NEW ZEALAND"
+  },
+  "33 Coles Crescent, Papakura, Papakura, 2110, NEW ZEALAND": {
+    "lat": -37.0605999,
+    "lon": 174.9390857,
+    "query": "33 Coles Crescent, Papakura, Papakura, 2110, NEW ZEALAND"
+  },
+  "33 Havelock Road, Havelock North, Havelock North, 4130, NEW ZEALAND": {
+    "lat": -39.6680644,
+    "lon": 176.8751413,
+    "query": "33 Havelock Road, Havelock North, Havelock North, 4130, NEW ZEALAND"
+  },
+  "33d Springs Road, East Tamaki, Auckland, 2013, NEW ZEALAND": {
+    "lat": -36.943388,
+    "lon": 174.8936387,
+    "query": "33d Springs Road, East Tamaki, Auckland, 2013, NEW ZEALAND"
+  },
+  "33e Springs Road, East Tamaki, Auckland, 2013, NEW ZEALAND": {
+    "lat": -36.943388,
+    "lon": 174.8936387,
+    "query": "33e Springs Road, East Tamaki, Auckland, 2013, NEW ZEALAND"
+  },
+  "34 Rosemont Road, Waihi, 3610, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "34 Rosemont Road, Waihi, Waihi, 3610, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "34 Shortland Street, Auckland Central, Auckland, 1010, NEW ZEALAND": {
+    "lat": -36.8465309,
+    "lon": 174.7677946,
+    "query": "34 Shortland Street, Auckland Central, Auckland, 1010, NEW ZEALAND"
+  },
+  "349 Dominion Road, Mount Eden, Auckland, 1024, NEW ZEALAND": {
+    "lat": -36.8795531,
+    "lon": 174.7496867,
+    "query": "349 Dominion Road, Mount Eden, Auckland, 1024, NEW ZEALAND"
+  },
+  "35 Hobson St, Auckland, NEW ZEALAND": {
+    "lat": -36.846559,
+    "lon": 174.7617988,
+    "query": "35 Hobson St, Auckland, NEW ZEALAND"
+  },
+  "35 Hobson Street, Auckland Central, Auckland, 1010, NEW ZEALAND": {
+    "lat": -36.846559,
+    "lon": 174.7617988,
+    "query": "35 Hobson Street, Auckland Central, Auckland, 1010, NEW ZEALAND"
+  },
+  "35 Victoria Avenue, Palmerston North, 4410, NEW ZEALAND": {
+    "lat": -40.3507615,
+    "lon": 175.6189339,
+    "query": "35 Victoria Avenue, Palmerston North, 4410, NEW ZEALAND"
+  },
+  "35 Victoria Avenue, Palmerston North, Palmerston North, 4414, NEW ZEALAND": {
+    "lat": -40.3507615,
+    "lon": 175.6189339,
+    "query": "35 Victoria Avenue, Palmerston North, Palmerston North, 4414, NEW ZEALAND"
+  },
+  "36 Dromoland Drive, Flat Bush, Auckland, 2019, NEW ZEALAND": {
+    "lat": -36.970837,
+    "lon": 174.9174222,
+    "query": "36 Dromoland Drive, Flat Bush, Auckland, 2019, NEW ZEALAND"
+  },
+  "36, Dromoland Drive, Flatbush, Auckland, 2019, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "37 Peninsula Road, Mangere, Auckland, 2022, NEW ZEALAND": {
+    "lat": -36.9803524,
+    "lon": 174.8004552,
+    "query": "37 Peninsula Road, Mangere, Auckland, 2022, NEW ZEALAND"
+  },
+  "37 Peninsula Road, Mangere, NEW ZEALAND": {
+    "lat": -36.9803524,
+    "lon": 174.8004552,
+    "query": "37 Peninsula Road, Mangere, NEW ZEALAND"
+  },
+  "387 Great North Road, Henderson, Auckland, 0612, NEW ZEALAND": {
+    "lat": -36.8786681,
+    "lon": 174.6315011,
+    "query": "387 Great North Road, Henderson, Auckland, 0612, NEW ZEALAND"
+  },
+  "387-391 Great North Road, Henderson, Auckland, 0612, NEW ZEALAND": {
+    "lat": -36.8819471,
+    "lon": 174.640569,
+    "query": "387-391 Great North Road, Henderson, Auckland, 0612, NEW ZEALAND"
+  },
+  "39 George Street, Timaru, 7910, NEW ZEALAND": {
+    "lat": -44.3971598,
+    "lon": 171.2535062,
+    "query": "39 George Street, Timaru, 7910, NEW ZEALAND"
+  },
+  "39 George Street, Timaru, Timaru, 7910, NEW ZEALAND": {
+    "lat": -44.3971598,
+    "lon": 171.2535062,
+    "query": "39 George Street, Timaru, Timaru, 7910, NEW ZEALAND"
+  },
+  "39 Vestey Drive, Mt Wellington, Auckland, 1060, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "39 Vestey Drive, Mt Wellington, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "39a Rennie Drive, Mangere, Auckland, 2022, NEW ZEALAND": {
+    "lat": -36.9775889,
+    "lon": 174.7811658,
+    "query": "39a Rennie Drive, Mangere, Auckland, 2022, NEW ZEALAND"
+  },
+  "39d Rennie Drive, Mangere, Auckland, 2022, NEW ZEALAND": {
+    "lat": -36.9775889,
+    "lon": 174.7811658,
+    "query": "39d Rennie Drive, Mangere, Auckland, 2022, NEW ZEALAND"
+  },
+  "4 Graham Street, Auckland Central, Auckland, 1010, NEW ZEALAND": {
+    "lat": -36.8469817,
+    "lon": 174.7589582,
+    "query": "4 Graham Street, Auckland Central, Auckland, 1010, NEW ZEALAND"
+  },
+  "4 Graham Street, Auckland, 1010, NEW ZEALAND": {
+    "lat": -36.8469817,
+    "lon": 174.7589582,
+    "query": "4 Graham Street, Auckland, 1010, NEW ZEALAND"
+  },
+  "4 Tavern Drive, Rd 1, Greta Valley, 7387, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "4 Tavern Place, Greta Valley, 7387, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "4 Williamson Avenue, Ponsonby, Auckland, 1021, NEW ZEALAND": {
+    "lat": -36.8592684,
+    "lon": 174.7464602,
+    "query": "4 Williamson Avenue, Ponsonby, Auckland, 1021, NEW ZEALAND"
+  },
+  "4/35 Sir William Pickering Drive, Canterbury Technology Park, Christchurch, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "40 Lady Elizabeth Lane, Wellington Central, Wellington, 6011, NEW ZEALAND": {
+    "lat": -41.2823816,
+    "lon": 174.7788927,
+    "query": "40 Lady Elizabeth Lane, Wellington Central, Wellington, 6011, NEW ZEALAND"
+  },
+  "404-412 Khyber Pass Road, Newmarket, Auckland, 1023, NEW ZEALAND": {
+    "lat": -36.8670727,
+    "lon": 174.7760213,
+    "query": "404-412 Khyber Pass Road, Newmarket, Auckland, 1023, NEW ZEALAND"
+  },
+  "408 Khyber Pass Road, Newmarket, Auckland, 1023, NEW ZEALAND": {
+    "lat": -36.8671052,
+    "lon": 174.7760734,
+    "query": "408 Khyber Pass Road, Newmarket, Auckland, 1023, NEW ZEALAND"
+  },
+  "41/19 Ormiston Road, Otara, Auckland, 2019, NEW ZEALAND": {
+    "lat": -36.9622016,
+    "lon": 174.8934449,
+    "query": "41/19 Ormiston Road, Otara, Auckland, 2019, NEW ZEALAND"
+  },
+  "42 Moorhouse Street, Morrinsville, 3300, NEW ZEALAND": {
+    "lat": -37.6580605,
+    "lon": 175.5300591,
+    "query": "42 Moorhouse Street, Morrinsville, 3300, NEW ZEALAND"
+  },
+  "42 Moorhouse Street, Morrinsville, Morrinsville, 3300, NEW ZEALAND": {
+    "lat": -37.6580605,
+    "lon": 175.5300591,
+    "query": "42 Moorhouse Street, Morrinsville, Morrinsville, 3300, NEW ZEALAND"
+  },
+  "42 Tawa Drive, Albany, Auckland, 0632, NEW ZEALAND": {
+    "lat": -36.7359998,
+    "lon": 174.7156184,
+    "query": "42 Tawa Drive, Albany, Auckland, 0632, NEW ZEALAND"
+  },
+  "44 Heuheu Street, Taupo, 3330, NEW ZEALAND": {
+    "lat": -38.6897163,
+    "lon": 176.0795429,
+    "query": "44 Heuheu Street, Taupo, 3330, NEW ZEALAND"
+  },
+  "44 Heuheu Street, Taupo, Taupo, 3330, NEW ZEALAND": {
+    "lat": -38.6897163,
+    "lon": 176.0795429,
+    "query": "44 Heuheu Street, Taupo, Taupo, 3330, NEW ZEALAND"
+  },
+  "44 Te Heuheu Street, Taupo, 3330, NEW ZEALAND": {
+    "lat": -38.6897163,
+    "lon": 176.0795429,
+    "query": "44 Te Heuheu Street, Taupo, 3330, NEW ZEALAND"
+  },
+  "44 Te Heuheu Street, Taupo, Taupo, 3330, NEW ZEALAND": {
+    "lat": -38.6897163,
+    "lon": 176.0795429,
+    "query": "44 Te Heuheu Street, Taupo, Taupo, 3330, NEW ZEALAND"
+  },
+  "45-49 Tirau Street, Putaruru, 3411, NEW ZEALAND": {
+    "lat": -38.0489333,
+    "lon": 175.7806965,
+    "query": "45-49 Tirau Street, Putaruru, 3411, NEW ZEALAND"
+  },
+  "45-49 Tirau Street, Putaruru, 3443, NEW ZEALAND": {
+    "lat": -38.0489333,
+    "lon": 175.7806965,
+    "query": "45-49 Tirau Street, Putaruru, 3443, NEW ZEALAND"
+  },
+  "45-49 Tirau Street, Putaruru, NEW ZEALAND": {
+    "lat": -38.0489333,
+    "lon": 175.7806965,
+    "query": "45-49 Tirau Street, Putaruru, NEW ZEALAND"
+  },
+  "45-49 Tirau Street, Putaruru, Putaruru, 3411, NEW ZEALAND": {
+    "lat": -38.0489333,
+    "lon": 175.7806965,
+    "query": "45-49 Tirau Street, Putaruru, Putaruru, 3411, NEW ZEALAND"
+  },
+  "47 Bridge Street, Nelson, Nelson, 7010, NEW ZEALAND": {
+    "lat": -41.2723394,
+    "lon": 173.2832303,
+    "query": "47 Bridge Street, Nelson, Nelson, 7010, NEW ZEALAND"
+  },
+  "470 Parnell Road, Parnell, Auckland, 1052, NEW ZEALAND": {
+    "lat": -36.861509,
+    "lon": 174.7824558,
+    "query": "470 Parnell Road, Parnell, Auckland, 1052, NEW ZEALAND"
+  },
+  "48 Broadway, Newmarket, Auckland, 1023, NEW ZEALAND": {
+    "lat": -36.8652462,
+    "lon": 174.7792131,
+    "query": "48 Broadway, Newmarket, Auckland, 1023, NEW ZEALAND"
+  },
+  "48 Shortland Street, Auckland Central, Auckland, 1010, NEW ZEALAND": {
+    "lat": -36.8467322,
+    "lon": 174.7682871,
+    "query": "48 Shortland Street, Auckland Central, Auckland, 1010, NEW ZEALAND"
+  },
+  "49 C Plunket Avenue, Papatoetoe, Auckland, 2104, NEW ZEALAND": {
+    "lat": -36.9913139,
+    "lon": 174.863731,
+    "query": "49 C Plunket Avenue, Papatoetoe, Auckland, 2104, NEW ZEALAND"
+  },
+  "499 Great South Road, Penrose, Auckland, 1061, NEW ZEALAND": {
+    "lat": -36.9064233,
+    "lon": 174.8107954,
+    "query": "499 Great South Road, Penrose, Auckland, 1061, NEW ZEALAND"
+  },
+  "49c Plunket Avenue, Papatoetoe, Auckland, 2104, NEW ZEALAND": {
+    "lat": -36.9913139,
+    "lon": 174.863731,
+    "query": "49c Plunket Avenue, Papatoetoe, Auckland, 2104, NEW ZEALAND"
+  },
+  "4c Sefton Street East, Timaru, 7910, NEW ZEALAND": {
+    "lat": -44.3931271,
+    "lon": 171.2489171,
+    "query": "4c Sefton Street East, Timaru, 7910, NEW ZEALAND"
+  },
+  "4c Sefton Street East, Timaru, Timaru, 7910, NEW ZEALAND": {
+    "lat": -44.3931271,
+    "lon": 171.2489171,
+    "query": "4c Sefton Street East, Timaru, Timaru, 7910, NEW ZEALAND"
+  },
+  "4th Floor, Smith & Caughey Building, 253 Queen Street, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "5/586, Papatoetoe, Manukau, 2021, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "503 Great South Road, Penrose, Auckland, 1061, NEW ZEALAND": {
+    "lat": -36.9064233,
+    "lon": 174.8107954,
+    "query": "503 Great South Road, Penrose, Auckland, 1061, NEW ZEALAND"
+  },
+  "504 Wairakei Road, Burnside, Christchurch, 8053, NEW ZEALAND": {
+    "lat": -43.4897762,
+    "lon": 172.569407,
+    "query": "504 Wairakei Road, Burnside, Christchurch, 8053, NEW ZEALAND"
+  },
+  "51 Tancred Street, Hokitika, Hokitika, 7810, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "53- 55 Manchester Street, Feilding, Feilding, 4702, NEW ZEALAND": {
+    "lat": -40.2275142,
+    "lon": 175.5658908,
+    "query": "53- 55 Manchester Street, Feilding, Feilding, 4702, NEW ZEALAND"
+  },
+  "53-55 Manchester Street, Feilding, 4702, NEW ZEALAND": {
+    "lat": -40.2275142,
+    "lon": 175.5658908,
+    "query": "53-55 Manchester Street, Feilding, 4702, NEW ZEALAND"
+  },
+  "53-55 Sophia Street, Timaru, 7940, NEW ZEALAND": {
+    "lat": -44.3955427,
+    "lon": 171.2507724,
+    "query": "53-55 Sophia Street, Timaru, 7940, NEW ZEALAND"
+  },
+  "53-55 Sophia Street, Timaru, Timaru, 7910, NEW ZEALAND": {
+    "lat": -44.3955427,
+    "lon": 171.2507724,
+    "query": "53-55 Sophia Street, Timaru, Timaru, 7910, NEW ZEALAND"
+  },
+  "54 Cass Street, Ashbrton, 7700, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "54 Cass Street, Ashburton, 7700, NEW ZEALAND": {
+    "lat": -43.9065944,
+    "lon": 171.748881,
+    "query": "54 Cass Street, Ashburton, 7700, NEW ZEALAND"
+  },
+  "54 Cass Street, Ashburton, Ashburton, 7700, NEW ZEALAND": {
+    "lat": -43.9020142,
+    "lon": 171.7556413,
+    "query": "54 Cass Street, Ashburton, Ashburton, 7700, NEW ZEALAND"
+  },
+  "54 Gill Street, New Plymouth, New Plymouth, 4310, NEW ZEALAND": {
+    "lat": -39.0561378,
+    "lon": 174.0768254,
+    "query": "54 Gill Street, New Plymouth, New Plymouth, 4310, NEW ZEALAND"
+  },
+  "553 Remuera Road, Remuera, Auckland, 1050, NEW ZEALAND": {
+    "lat": -36.880677,
+    "lon": 174.8116666,
+    "query": "553 Remuera Road, Remuera, Auckland, 1050, NEW ZEALAND"
+  },
+  "56 Livingstone Street, Hokitika, 7842, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "56 Livingstone Street, Hokitika, Hokitika, 7810, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "59 High Street, Blenheim, 7201, NEW ZEALAND": {
+    "lat": -41.512073,
+    "lon": 173.9552645,
+    "query": "59 High Street, Blenheim, 7201, NEW ZEALAND"
+  },
+  "59 High Street, Blenheim, Blenheim, 7201, NEW ZEALAND": {
+    "lat": -41.512073,
+    "lon": 173.9552645,
+    "query": "59 High Street, Blenheim, Blenheim, 7201, NEW ZEALAND"
+  },
+  "5a, Level 5, 175 Queen Street, Auckland Central, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "6 Blake Street, Rangiora, 7400, NEW ZEALAND": {
+    "lat": -43.302286,
+    "lon": 172.5933516,
+    "query": "6 Blake Street, Rangiora, 7400, NEW ZEALAND"
+  },
+  "6 Blake Street, Rangiora, NEW ZEALAND": {
+    "lat": -43.302286,
+    "lon": 172.5933516,
+    "query": "6 Blake Street, Rangiora, NEW ZEALAND"
+  },
+  "6 Blake Street, Rangiora, Rangiora, 7400, NEW ZEALAND": {
+    "lat": -43.302286,
+    "lon": 172.5933516,
+    "query": "6 Blake Street, Rangiora, Rangiora, 7400, NEW ZEALAND"
+  },
+  "6 Rosedale Road, Windsor Park, Auckland, 0632, NEW ZEALAND": {
+    "lat": -36.7343244,
+    "lon": 174.7334886,
+    "query": "6 Rosedale Road, Windsor Park, Auckland, 0632, NEW ZEALAND"
+  },
+  "64 High Street, Greymouth, 7805, NEW ZEALAND": {
+    "lat": -42.4598569,
+    "lon": 171.2011715,
+    "query": "64 High Street, Greymouth, 7805, NEW ZEALAND"
+  },
+  "64 High Street, Greymouth, Greymouth, 7805, NEW ZEALAND": {
+    "lat": -42.4598569,
+    "lon": 171.2011715,
+    "query": "64 High Street, Greymouth, Greymouth, 7805, NEW ZEALAND"
+  },
+  "66 Hurstmere Road, Takapuna, Auckland, 0622, NEW ZEALAND": {
+    "lat": -36.7877462,
+    "lon": 174.7726401,
+    "query": "66 Hurstmere Road, Takapuna, Auckland, 0622, NEW ZEALAND"
+  },
+  "66 Wyndham Street, Auckland Central, Auckland, 1010, NEW ZEALAND": {
+    "lat": -36.8466984,
+    "lon": 174.76281,
+    "query": "66 Wyndham Street, Auckland Central, Auckland, 1010, NEW ZEALAND"
+  },
+  "660 Great South Road, Building 3 Level 5, Ellerslie, Auckland, 1051, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "69 Tarbert Street, Alexandra, Alexandra, 9320, NEW ZEALAND": {
+    "lat": -45.2551789,
+    "lon": 169.3934096,
+    "query": "69 Tarbert Street, Alexandra, Alexandra, 9320, NEW ZEALAND"
+  },
+  "7 Gladstone Road South, Mosgiel, Mosgiel, 9024, NEW ZEALAND": {
+    "lat": -45.8862683,
+    "lon": 170.3535152,
+    "query": "7 Gladstone Road South, Mosgiel, Mosgiel, 9024, NEW ZEALAND"
+  },
+  "7 Gladstone Road, Mosgiel, Dunedin, 9024, NEW ZEALAND": {
+    "lat": -45.8862683,
+    "lon": 170.3535152,
+    "query": "7 Gladstone Road, Mosgiel, Dunedin, 9024, NEW ZEALAND"
+  },
+  "7 Mccoll Street, Newmarket, Auckland, 1023, NEW ZEALAND": {
+    "lat": -36.8675785,
+    "lon": 174.7736916,
+    "query": "7 Mccoll Street, Newmarket, Auckland, 1023, NEW ZEALAND"
+  },
+  "7/54 View Road, Wairau Valley, Auckland, 0627, NEW ZEALAND": {
+    "lat": -36.771205,
+    "lon": 174.7343759,
+    "query": "7/54 View Road, Wairau Valley, Auckland, 0627, NEW ZEALAND"
+  },
+  "701 Selwyn Road, Rd 8, Rolleston, 7678, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "701 Selwyn Road, Rolleston, 7678, NEW ZEALAND": {
+    "lat": -43.6246836,
+    "lon": 172.4029637,
+    "query": "701 Selwyn Road, Rolleston, 7678, NEW ZEALAND"
+  },
+  "713, Kumeu, Auckland, 0841, NEW ZEALAND": {
+    "lat": -36.7753095,
+    "lon": 174.5546604,
+    "query": "713, Kumeu, Auckland, 0841, NEW ZEALAND"
+  },
+  "72 Dominion Road, Mount Eden, Auckland, 1024, NEW ZEALAND": {
+    "lat": -36.8710449,
+    "lon": 174.7529054,
+    "query": "72 Dominion Road, Mount Eden, Auckland, 1024, NEW ZEALAND"
+  },
+  "72 Taharoto Road, Takapuna, Auckland, 0622, NEW ZEALAND": {
+    "lat": -36.7850872,
+    "lon": 174.7532487,
+    "query": "72 Taharoto Road, Takapuna, Auckland, 0622, NEW ZEALAND"
+  },
+  "74 Kaimanawa Street, Taupo, 3330, NEW ZEALAND": {
+    "lat": -38.6854116,
+    "lon": 176.0781281,
+    "query": "74 Kaimanawa Street, Taupo, 3330, NEW ZEALAND"
+  },
+  "74 Taharoto Road, Takapuna, Auckland, 0622, NEW ZEALAND": {
+    "lat": -36.7854542,
+    "lon": 174.755407,
+    "query": "74 Taharoto Road, Takapuna, Auckland, 0622, NEW ZEALAND"
+  },
+  "78 Reservoir Road, Oamaru North, Oamaru, 9400, NEW ZEALAND": {
+    "lat": -45.0799164,
+    "lon": 170.9703217,
+    "query": "78 Reservoir Road, Oamaru North, Oamaru, 9400, NEW ZEALAND"
+  },
+  "78 Reservoir Road, Oamaru, Oamaru North, 9400, NEW ZEALAND": {
+    "lat": -45.0799164,
+    "lon": 170.9703217,
+    "query": "78 Reservoir Road, Oamaru, Oamaru North, 9400, NEW ZEALAND"
+  },
+  "8 Raroa Road, Hutt Central, Lower Hutt, 5010, NEW ZEALAND": {
+    "lat": -41.2073139,
+    "lon": 174.908613,
+    "query": "8 Raroa Road, Hutt Central, Lower Hutt, 5010, NEW ZEALAND"
+  },
+  "80 Favona Rd, Mangere, Auckland, 2024, NEW ZEALAND": {
+    "lat": -36.9490899,
+    "lon": 174.8080096,
+    "query": "80 Favona Rd, Mangere, Auckland, 2024, NEW ZEALAND"
+  },
+  "80 Favona Road, Favona, Auckland, 2024, NEW ZEALAND": {
+    "lat": -36.9490899,
+    "lon": 174.8080096,
+    "query": "80 Favona Road, Favona, Auckland, 2024, NEW ZEALAND"
+  },
+  "81 Hokonui Drive, Gore, 9710, NEW ZEALAND": {
+    "lat": -46.0914436,
+    "lon": 168.9441068,
+    "query": "81 Hokonui Drive, Gore, 9710, NEW ZEALAND"
+  },
+  "81 Hokonui Drive, Gore, Gore, 9710, NEW ZEALAND": {
+    "lat": -46.0982709,
+    "lon": 168.9457753,
+    "query": "81 Hokonui Drive, Gore, Gore, 9710, NEW ZEALAND"
+  },
+  "81 Hokonui Drive, Gore, Gore, 9740, NEW ZEALAND": {
+    "lat": -46.0988287,
+    "lon": 168.9457786,
+    "query": "81 Hokonui Drive, Gore, Gore, 9740, NEW ZEALAND"
+  },
+  "83 Victoria Street, Christchurch Central, Christchurch, 8013, NEW ZEALAND": {
+    "lat": -43.5254139,
+    "lon": 172.6313273,
+    "query": "83 Victoria Street, Christchurch Central, Christchurch, 8013, NEW ZEALAND"
+  },
+  "85 Alexandra Street, Hamilton Central, Hamilton, 3204, NEW ZEALAND": {
+    "lat": -37.7896793,
+    "lon": 175.282962,
+    "query": "85 Alexandra Street, Hamilton Central, Hamilton, 3204, NEW ZEALAND"
+  },
+  "85 Gala Street, Invercargill, NEW ZEALAND": {
+    "lat": -46.4065536,
+    "lon": 168.3522082,
+    "query": "85 Gala Street, Invercargill, NEW ZEALAND"
+  },
+  "85 Gala Street, Queens Park, Invercargill, 9810, NEW ZEALAND": {
+    "lat": -46.4065536,
+    "lon": 168.3522082,
+    "query": "85 Gala Street, Queens Park, Invercargill, 9810, NEW ZEALAND"
+  },
+  "87 Maryvale Road, Milldale, Auckland, 0992, NEW ZEALAND": {
+    "lat": -36.6157529,
+    "lon": 174.6531143,
+    "query": "87 Maryvale Road, Milldale, Auckland, 0992, NEW ZEALAND"
+  },
+  "87 Maryvale Road, Wainui, Wainui, 0932, NEW ZEALAND": {
+    "lat": -36.6157529,
+    "lon": 174.6531143,
+    "query": "87 Maryvale Road, Wainui, Wainui, 0932, NEW ZEALAND"
+  },
+  "88 Shortland Street, Auckland Central, Auckland, 1010, NEW ZEALAND": {
+    "lat": -36.8465284,
+    "lon": 174.7697833,
+    "query": "88 Shortland Street, Auckland Central, Auckland, 1010, NEW ZEALAND"
+  },
+  "88 Shortland Street, Auckland, 1140, NEW ZEALAND": {
+    "lat": -36.8465284,
+    "lon": 174.7697833,
+    "query": "88 Shortland Street, Auckland, 1140, NEW ZEALAND"
+  },
+  "88 Shortland Street, Auckland, NEW ZEALAND": {
+    "lat": -36.8465284,
+    "lon": 174.7697833,
+    "query": "88 Shortland Street, Auckland, NEW ZEALAND"
+  },
+  "93 Maniapoto Street, Otorohanga, 3900, NEW ZEALAND": {
+    "lat": -38.1842977,
+    "lon": 175.2125236,
+    "query": "93 Maniapoto Street, Otorohanga, 3900, NEW ZEALAND"
+  },
+  "93 Maniapoto Street, Otorohanga, Otorohanga, 3900, NEW ZEALAND": {
+    "lat": -38.1862736,
+    "lon": 175.211398,
+    "query": "93 Maniapoto Street, Otorohanga, Otorohanga, 3900, NEW ZEALAND"
+  },
+  "96 New North Road, Eden Terrace, Auckland, 1021, NEW ZEALAND": {
+    "lat": -36.8667332,
+    "lon": 174.7575006,
+    "query": "96 New North Road, Eden Terrace, Auckland, 1021, NEW ZEALAND"
+  },
+  "9a Glenfern Road, Mellons Bay, Auckland, 2014, NEW ZEALAND": {
+    "lat": -36.8919501,
+    "lon": 174.9343135,
+    "query": "9a Glenfern Road, Mellons Bay, Auckland, 2014, NEW ZEALAND"
+  },
+  "9a Glenfern Road, Mellons Bay, Mellons Bay, Auckland, 2014, NEW ZEALAND": {
+    "lat": -36.8919501,
+    "lon": 174.9343135,
+    "query": "9a Glenfern Road, Mellons Bay, Mellons Bay, Auckland, 2014, NEW ZEALAND"
+  },
+  "9a Piermark Drive, Rosedale, Auckland, 0632, NEW ZEALAND": {
+    "lat": -36.7479151,
+    "lon": 174.702676,
+    "query": "9a Piermark Drive, Rosedale, Auckland, 0632, NEW ZEALAND"
+  },
+  "9e Piermark Drive, Rosedale, Auckland, 0632, NEW ZEALAND": {
+    "lat": -36.7479151,
+    "lon": 174.702676,
+    "query": "9e Piermark Drive, Rosedale, Auckland, 0632, NEW ZEALAND"
+  },
+  "9th Floor, Majestic Centre, 100 Willis Street, Wellington, 6011, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Abacus House, 102 Thames Street, Oamaru, 9400, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Aon Centre, Level 12/29 Customs Street West, Auckland Central, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Aon House, Level 19, 1 Willis Street, Wellington, 6011, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Awly Building, Level 4 287-293 Durham Street, Christchurch, 8013, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Awly Building, Level 4, 287 - 293 Durham Street, Christchurch, 8013, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Bdo Auckland, Level 4, 4 Graham Street, Auckland, 1140, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Bdo Christchurch, Level 4, 287/293 Durham Street North, Level 4, Christchurch Central, Christchurch, 8013, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Bldg 6, Lvl 2, 666 Great South Road, Ellerslie, Auckland, 1051, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Building M1, 261 Morrin Road, Saint Johns, Auckland, 1072, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Business H Q, 308 Queen Street East, Hastings, 4122, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "C/- Ca Business Advisory Ltd, 470 Parnell Road, Parnell, Auckland, 1052, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "C/- Ecovis Kga Limited Level 2, 5-7 Kingdon Street, Newmarket, Auckland, 1023, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "C/- Khov Jones, 59 Apollo Drive, Albany, Auckland, 0632, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "C/o Level 5, 64 Khyber Pass, Auckland, 1023, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Chartered Acccountants, 45-49 Tirau Street, Putaruru, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Cider Building, Level 8, 4 Williamson Avenue, Grey Lynn, Auckland, 1021, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Commercial Bay, Level 16-18, 11-19 Customs Street West, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Commercial Union House, 12 O'connell Street, Auckland Central, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Deloitte Centre, Level 5, 1 Queen Street, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Dominion Road, Auckland, 1446, NEW ZEALAND": {
+    "lat": -36.8687574,
+    "lon": 174.7533624,
+    "query": "Dominion Road, Auckland, 1446, NEW ZEALAND"
+  },
+  "First Floor, 210 Maraekakaho Rd, Hastimgs, 4120, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "First Floor, 210 Maraekakaho Road, Hastings, 4120, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "First Floor, Spencer House, 31 Dunmore Street, Wanaka, 9305, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Flat 1, 16 Piermark Drive, Rosedale, Auckland, 0632, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Floor 1, 103 Carlton Gore Road, Newmarket, AUCKLAND, 1023, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Floor 1, 103 Carlton Gore Road, Newmarket, Auckland, 1023, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Floor 10, Tower Two,205 Queen Street, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Floor 11, 36 Customhouse Quay, Wellington Central, Wellington, 6011, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Floor 16 Vero Centre, 48 Shortland Street, Auckland Central, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Floor 2, 2 Takutai Square, Auckland Central, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Floor 3, 32 Mahuhu Crescent, Auckland Central, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Floor 3, 47 Salisbury Street, Christchurch Central, Christchurch, 8013, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Floor 4, 175 Queen Street, Auckland Central, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Floor 5, 229 Moray Place, Dunedin Central, Dunedin, 9016, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Floor 7, 36 Brandon Street, Wellington Central, Wellington, 6011, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Floor 7, 57 Symonds Street, Grafton, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Floor 8 Harbourview Building, 152 Quay Street, Auckland Central, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Ground Floor, 3 City Road, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Ground Floor, Anz Centre, 23-29 Albert Street, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Ground Floor, Building 7, 660-670 Great South Road, Ellerslie, Auckland, 1051, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Harvie Green Wyatt Chartered Accountants, Level 5,229 Moray Place, Dunedin Central Dunedin, 9016, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Kaimanawa House, 74 Kaimanawa Street, Taupo, 3330, NEW ZEALAND": {
+    "lat": -38.6854116,
+    "lon": 176.0781281,
+    "query": "Kaimanawa House, 74 Kaimanawa Street, Taupo, 3330, NEW ZEALAND"
+  },
+  "Kpmg Centre, 18 Viaduct Harbour Ave, Auckland, 1140, NEW ZEALAND": {
+    "lat": -36.8456513,
+    "lon": 174.7576501,
+    "query": "Kpmg Centre, 18 Viaduct Harbour Ave, Auckland, 1140, NEW ZEALAND"
+  },
+  "L18, 1 Willis Street, Wellington, 6011, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "L2, Building 1, 181 High Street, Christchurch Central, Christchurch, 8011, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "L9, Ey Building, 2 Takutai Square, Britomart, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Leve 6 66 Wyndham Street, Auckland Central, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1 20 Don Street, Invercargill, 9810, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1 Building 5, 15 Accent Drive East Tamaki, Auckland, 2012, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1 The Hub, 525 Cameron Road, Tauranga, 3110, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, 10 Manukau Road, Epsom, Auckland, 1023, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, 100 Moorhouse Avenue, Addington, Christchurch, 8011, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, 100 Moorhouse Avenue, Christchurch, 8011, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, 103 Carlton Gore Road, Newmarket, Auckland, 1023, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, 103 Carlton Gore Road, Newmarket, Auckland, 1140, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, 12 O'connell Street, Auckland Central, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, 123 Vogel Street, Dunedin Central, Dunedin, 9016, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, 123 Vogel Street, Dunedin, 9054, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, 136 Ilam Road, Ilam, Christchurch, 8041, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, 160 Havelock Street, Ashburton, 7700, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, 161 Burnett Street, Ashburton, 7700, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, 161 Burnett Street, Ashburton, Ashburton, 7700, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, 2 Commerce Street, Whakatane, 3120, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, 2 Commerce Street, Whakatane, Whakatane, 3120, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, 20 Don Street, Invercargill, 9810, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, 243 Princes Street, Dunedin, 9016, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, 247 Cameron Road, Tauranga, 3110, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, 26 Canon Street, Timaru, 7910, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, 3 Byron Street, Napier, 4112, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, 320 Ti Rakau Drive, Burswood, Auckland, 2013, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, 320 Ti Rakau Drive, East Tamaki, Auckland, 2013, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, 320 Ti Rakau Drive, East Tamaki, Auckland, 2163, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, 33 Broadway, Newmarket, Auckland, 1023, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, 33 Havelock Road, Havelock North, 4130, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, 4 Vinery Lane, Whangarei, 0110, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, 40 Lady Elizabeth Lane, Wellington Central, Wellington, 6011, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, 42 Alfred Street, Blenheim Central, Blenheim, 7201, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, 42e Tawa Drive, Albany, Auckland, 0632, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, 46 Stanley Street, Parnell, Auckland, 0000, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, 46 Stanley Street, Parnell, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, 47 Bridge Street, Nelson, 7010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, 50 Albert Street, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, 50 Customhouse Quay, Chartered Accountants House, Wellington, 6011, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, 50 Customhouse Quay, Wellington, 6011, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, 551-553 Remuera Road, Remuera, Auckland, 1050, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, 60 Highbrook Drive, East Tamaki, Auckland, 2013, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, 65 Centennial Avenue, Alexandra, 9020, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, 65 Centennial Avenue, Alexandra, 9320, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, 656 Great South Road, Ellerslie, Auckland, 1051, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, 656 Great South Road, Ellerslie, Auckland, New Zealand, 1051, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, 680 Colombo Street, Christchurch Central, Christchurch, 8011, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, 69 Tarbert Street, Alexandra, 9320, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, 8 Raroa Road, Hutt Central, Lower Hutt, 5010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, 96 New North Road, Eden Terrace, Auckland, 1021, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, Ainger Tomlin House, 136 Ilam Road, Ilam, Christchurch, 8041, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, Amp Centre, 29 Customs Street West, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, Building 1, Central Park, 660 Great South Road, Ellerslie, Auckland, 1051, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, Building 6, Central Park, 660 Great South Road, Ellerslie, Auckland, 1051, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, Building B, 600 Great South Road, Auckland, 1051, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, Building E, 42 Tawa Drive, Albany, Auckland, 0632, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, Chartered Accountants House, 50 Customhouse Quay, Wellington, 6011, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, Ipayroll House, 93 Boulcott Street, Wellington, 6011, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, Plaza House, 243 Princes Street, Dunedin, 9016, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, Shed 22, Prince's Wharf, 147 Quay Street, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, Shed 22, Prince's Wharf, 147 Quay Street, Auckland Central, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1, The Hub, 525 Cameron Road, Tauranga, 3110, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1- 136 Ilam Road, Ilam, Christchurch, 8041, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 1/48 Broadway, Newmarket, Auckland, 1023, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 10, 1 Willis Street, Wellington Central, Wellington, 6011, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 10, 19 Como Street, Takapuna, Auckland, 0622, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 10, 85 Alexandra Street, Hamilton Central, Hamilton, 3204, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 10, Bdo Tower, 19 Como St, Takapuna, Auckland, 0740, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 10, Kpmg Centre, 85 Alexandra St, Hamilton, 3204, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 10, Kpmg Centre, 85 Alexandra Street, Hamilton, 3204, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 11, 19 Victoria Street West, Auckland Central, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 11, 41 Shortland Street, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 11, Kpmg Centre, 85 Alexandra Street, Hamilton, 3204, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 11, Pwc Tower, 15 Customs Street West, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 12, 17 Albert Street, Auckland Central, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 12, 20 Customhouse Quay, Wellington, 6011, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 12, 23-29 Albert Street, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 12,175 Queen Street, Auckland Central, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 13,51 Shortland Street, Auckland Central, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 14, 41 Shortland Street, Auckland Central, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 14, 88 Shortland Street, Auckland Central, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 14, 88 Shortland Street, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 15, 125 Queen St, Auckland Central, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 15, 151 Queen Street, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 15, Hsbc Building, 188 Quay Street, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 15, Ntt Tower, 157 Lambton Quay, Wellington, 6011, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 15, Pwc Tower, 15 Customs Street West, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 15, The Todd Building, 95 Customhouse Quay, Wellington, 6011, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 15, Tower 2, 205 Queen Street, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 16, 1 Albert Street, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 16, 51 Shortland Street, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 17, 1 Willis Street, Aon Centre, Wellington, 6011, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 17, 191 Queen Street, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 17, 34 Shortland Street, Auckland Central, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 17, 41 Shortland St, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 17, 88 Shortland Street, Auckland Central, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 17, Perpetual Guardian Tower, 191 Queen Street, Auckland Cbd, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 17, Spaces Commercial Bay, 11-19 Customs Street West, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 18, 188 Quay Street, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 18, Aon Centre, 29 Customs Street West, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 18, Hsbc Tower, 188 Quay Street, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 18, Huawei Centre, 120 Albert Street, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 19, 120 Albert Street, Auckland Cbd, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 19, 151 Queen Street, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 19, Ntt Tower, 157 Lambton Quay, Wellington, 6011, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 2 Shed 22, 147 Quay Street, Auckland Central, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 2, 1 Nelson Street, Auckland Central, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 2, 1 Wesley Street, Auckland, 2120, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 2, 1 Wesley Street, Pukekohe, 2120, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 2, 109 Fanshawe Street, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 2, 11-17 Church Street, Queenstown, 9300, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 2, 142 Broadway, Newmarket, Auckland, 1023, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 2, 142 Broadway, Newmarket, Auckland, 1149, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 2, 161 Burnett Street, Ashburton, 7700, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 2, 18 Normanby Road, Mount Eden, Auckland, 1024, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 2, 18 Sale Street, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 2, 186 Willis Street, Te Aro, Wellington, 6011, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 2, 2 Graham Street, Auckland, Auckland Central, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 2, 22 Pollen Street, Grey Lynn, Auckland, 1021, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 2, 299 Durham Street North, Christchurch, 8013, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 2, 299 Durham Street North, Christchurch, 8140, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 2, 32-34 Mahuhu Crescent, Auckland City, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 2, 329 Durham Street North, Christchurch Central, Christchurch, 8013, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 2, 329 Durham Street, Christchurch Central, Christchurch, 8013, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 2, 4 Vinery Lane, Whangarei, 0110, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 2, 408 Khyber Pass Road, Newmarket, Auckland, 1023, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 2, 5-7 Kingdon Street, Newmarket, Auckland, 1023, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 2, 504 Wairakei Road, Burnside, Christchurch, 8053, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 2, 504 Wairakei Road, Harewood, Canterbury, 8545, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 2, 6 Leonard Isitt Drive, Auckland Airport, Auckland, 2022, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 2, 680 Colombo Street, Christchurch Central, Christchurch, 8011, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 2, 7 Mccoll Street, Newmarket, Auckland, 1023, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 2, 74 Taharoto Road, Takapuna, Auckland, 0622, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 2, 83 Victoria Street, Christchurch Central, Christchurch, 8013, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 2, 83 Victoria Street, Christchurch, 8013, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 2, 98 Customhouse Quay, Wellington Central, Wellington, 6011, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 2, 98 Customhouse Quay, Wellington, 6011, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 2, Asb North Wharf, 12 Jellicoe Street, Auckland, 1010, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 2, Bell Gully Building, 40 Lady Elizabeth Lane, Wellington, Wellington, 6011, NEW ZEALAND": {
+    "status": "no_match"
+  },
+  "Level 2, Belly Gully Building, 40 Lady Elizabeth Lane, Wellington, 6011, NEW ZEALAND": {
+    "status": "no_match"
+  }
+}
