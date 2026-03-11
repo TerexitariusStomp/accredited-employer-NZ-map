@@ -54,6 +54,8 @@ def build_html(rows: list[dict], center_lat: float, center_lon: float) -> str:
     .filter-panel label {{ display: block; font-weight: 600; margin-bottom: 4px; }}
     .filter-panel select {{ width: 100%; margin-bottom: 10px; padding: 6px; }}
     .filter-stats {{ font-size: 12px; color: #333; }}
+    .downloads {{ margin-top: 8px; font-size: 12px; }}
+    .downloads a {{ margin-right: 10px; }}
   </style>
 </head>
 <body>
@@ -67,6 +69,11 @@ def build_html(rows: list[dict], center_lat: float, center_lon: float) -> str:
     <select id=\"subsectorFilter\"></select>
 
     <div class=\"filter-stats\" id=\"filterStats\"></div>
+    <div class=\"downloads\">
+      Downloads:
+      <a href=\"accredited_employers_map_points.kml\" download>KML</a>
+      <a href=\"accredited_employers_map_points.kmz\" download>KMZ</a>
+    </div>
   </div>
 
   <script src=\"https://unpkg.com/leaflet@1.9.4/dist/leaflet.js\"></script>
