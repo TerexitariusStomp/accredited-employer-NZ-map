@@ -139,21 +139,24 @@ def build_filtered_html_map(df: pd.DataFrame, out_html: Path) -> None:
         fg.add_to(m)
         subsector_groups[(sector_name, subsector_name)] = fg
 
-    for _, row in df.iterrows():
-        sector_name = str(row.get("sector", "Unknown") or "Unknown")
-        subsector_name = str(row.get("subsector", "Unknown") or "Unknown")
-        marker_kwargs = dict(
+    def add_point(target_group: folium.FeatureGroup, row: pd.Series) -> None:
+        marker = folium.CircleMarker(
             location=[float(row["lat"]), float(row["lon"])],
             radius=4,
             color="#d1495b",
             weight=1,
             fill=True,
             fill_opacity=0.75,
-            popup=folium.Popup(popup_html(row), max_width=420),
-            tooltip=str(row.get("pdf_company_name", "")),
         )
-        folium.CircleMarker(**marker_kwargs).add_to(sector_groups[sector_name])
-        folium.CircleMarker(**marker_kwargs).add_to(subsector_groups[(sector_name, subsector_name)])
+        marker.add_to(target_group)
+        marker.add_child(folium.Popup(popup_html(row), max_width=420))
+        marker.add_child(folium.Tooltip(str(row.get("pdf_company_name", ""))))
+
+    for _, row in df.iterrows():
+        sector_name = str(row.get("sector", "Unknown") or "Unknown")
+        subsector_name = str(row.get("subsector", "Unknown") or "Unknown")
+        add_point(sector_groups[sector_name], row)
+        add_point(subsector_groups[(sector_name, subsector_name)], row)
 
     folium.LayerControl(collapsed=False).add_to(m)
 
