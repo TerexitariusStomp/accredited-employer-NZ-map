@@ -4,10 +4,9 @@ import argparse
 import html
 import re
 from pathlib import Path
-from typing import Dict, List, Optional, Tuple
+from typing import Dict, Optional, Tuple
 
 import pandas as pd
-from folium.plugins import TreeLayerControl
 import folium
 from pypdf import PdfReader
 
@@ -120,54 +119,48 @@ def build_filtered_html_map(df: pd.DataFrame, out_html: Path) -> None:
     center_lon = float(df["lon"].mean())
     m = folium.Map(location=[center_lat, center_lon], zoom_start=6, tiles="OpenStreetMap")
 
-    sector_subsector_groups: Dict[Tuple[str, str], folium.FeatureGroup] = {}
-    for (sector, subsector), group_df in df.groupby(["sector", "subsector"], dropna=False):
-        sector_name = str(sector or "Unknown")
-        subsector_name = str(subsector or "Unknown")
-        fg = folium.FeatureGroup(name=f"{sector_name} / {subsector_name}", show=True)
+    sector_groups: Dict[str, folium.FeatureGroup] = {}
+    subsector_groups: Dict[Tuple[str, str], folium.FeatureGroup] = {}
+
+    for sector_name in sorted(df["sector"].fillna("Unknown").astype(str).unique()):
+        count = int((df["sector"] == sector_name).sum())
+        fg = folium.FeatureGroup(name=f"Sector: {sector_name} ({count})", show=True)
         fg.add_to(m)
-        sector_subsector_groups[(sector_name, subsector_name)] = fg
+        sector_groups[sector_name] = fg
 
-        for _, row in group_df.iterrows():
-            folium.CircleMarker(
-                location=[float(row["lat"]), float(row["lon"])],
-                radius=4,
-                color="#d1495b",
-                weight=1,
-                fill=True,
-                fill_opacity=0.75,
-                popup=folium.Popup(popup_html(row), max_width=420),
-                tooltip=str(row.get("pdf_company_name", "")),
-            ).add_to(fg)
-
-    sector_nodes: List[dict] = []
-    for sector_name in sorted({k[0] for k in sector_subsector_groups.keys()}):
-        children = []
-        subsectors = sorted([k[1] for k in sector_subsector_groups.keys() if k[0] == sector_name])
-        for subsector_name in subsectors:
-            layer = sector_subsector_groups[(sector_name, subsector_name)]
-            count = len(df[(df["sector"] == sector_name) & (df["subsector"] == subsector_name)])
-            children.append({"label": f"{subsector_name} ({count})", "layer": layer})
-
-        sector_total = len(df[df["sector"] == sector_name])
-        sector_nodes.append(
-            {
-                "label": f"{sector_name} ({sector_total})",
-                "selectAllCheckbox": "All/None",
-                "children": children,
-            }
+    for (sector_name, subsector_name), group_df in df.groupby(["sector", "subsector"], dropna=False):
+        sector_name = str(sector_name or "Unknown")
+        subsector_name = str(subsector_name or "Unknown")
+        count = len(group_df)
+        fg = folium.FeatureGroup(
+            name=f"Subsector: {sector_name} / {subsector_name} ({count})",
+            show=False,
         )
+        fg.add_to(m)
+        subsector_groups[(sector_name, subsector_name)] = fg
 
-    overlay_tree = {
-        "label": "Accredited Employers",
-        "selectAllCheckbox": "All/None",
-        "children": sector_nodes,
-    }
-    TreeLayerControl(overlay_tree=overlay_tree, collapsed=False).add_to(m)
+    for _, row in df.iterrows():
+        sector_name = str(row.get("sector", "Unknown") or "Unknown")
+        subsector_name = str(row.get("subsector", "Unknown") or "Unknown")
+        marker_kwargs = dict(
+            location=[float(row["lat"]), float(row["lon"])],
+            radius=4,
+            color="#d1495b",
+            weight=1,
+            fill=True,
+            fill_opacity=0.75,
+            popup=folium.Popup(popup_html(row), max_width=420),
+            tooltip=str(row.get("pdf_company_name", "")),
+        )
+        folium.CircleMarker(**marker_kwargs).add_to(sector_groups[sector_name])
+        folium.CircleMarker(**marker_kwargs).add_to(subsector_groups[(sector_name, subsector_name)])
+
+    folium.LayerControl(collapsed=False).add_to(m)
 
     title = """
     <div style="position: fixed; top: 10px; left: 50px; z-index: 9999; background: white; padding: 8px 10px; border: 1px solid #999; font-size: 12px;">
-      Use the top-right tree to toggle <b>Sector</b> or <b>Subsector</b> point groups.
+      Use the top-right layers list. Toggle <b>Sector:</b> groups or <b>Subsector:</b> groups.
+      Turn one set off when using the other to avoid duplicate display.
     </div>
     """
     m.get_root().html.add_child(folium.Element(title))
